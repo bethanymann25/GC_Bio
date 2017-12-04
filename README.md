@@ -50,14 +50,14 @@
     
 <div class="footer-social-icons">
     <h2 class="_14">Follow us on</h2>
-    <ul class="social-icons">
-        <li><a href="https://www.facebook.com/" class="social-icon"> <i class="fa fa-facebook"></i></a></li>
-        <li><a href="https://twitter.com/the_sra?lang=en" class="social-icon"> <i class="fa fa-twitter"></i></a></li>
-        <li><a href="http://www.nytimes.com/services/xml/rss/index.html" class="social-icon"> <i class="fa fa-rss"></i></a></li>
-        <li><a href="https://www.youtube.com/results?search_query=restaurant+sustainability" class="social-icon"> <i class="fa fa-youtube"></i></a></li>
-    </ul>
+   <div class="social">
+<a href="https://www.facebook.com/nytfood/" class="social-facebook"></a>
+<a href="https://twitter.com/the_sra?lang=en" class="social-twitter"></a>
+<a href="https://www.instagram.com/love_food/?hl=en" class="social-instagram"></a>
     <!--item 59-->
     <a class="twitter-timeline" data-width="250" data-height="300" data-theme="dark" data-link-color="#981CEB" href="https://twitter.com/the_SRA?ref_src=twsrc%5Etfw">Tweets by the_SRA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+</div>
     </body>
 </html>
+
