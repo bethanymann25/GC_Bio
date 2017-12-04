@@ -31,6 +31,7 @@
                 </figure>
           
             
+            <br/>
             <h3>About Chandler Kidd</h3>
             <figure>
             <img src="ckidd.jpg" alt="chan" height="200" width="200" />
