@@ -25,7 +25,7 @@
             <h3>About Bethany Mann</h3>
             <figure>
             <img src=peachyselfie.jpg alt="bethany" height="200" width="200"/>
-                <figcaption>Bethany Mann is a student at the University of Oklahoma studying journalism with Gaylord College. When she is not creating websites...blah blah blah blah blah
+                <figcaption>Bethany Mann is a student at the University of Oklahoma studying journalism with Gaylord College. When she is not creating websites, she likes to make videos and write articles about the cool people that we share a world with. She eventually hopes to work for kids' educational magazines, especially in the areas of science and literature. 
                 For more information about her skills download her resume
                 </figcaption>
                 </figure>
