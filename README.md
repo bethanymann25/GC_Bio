@@ -6,7 +6,7 @@
 <!-- item 26-->
         <link rel="icon"
           type="image/png"
-          href=""
+          href="Basil_Leaves.png"
           />
 <!-- item 3 -->
 <link href="GC.css" rel="stylesheet" type="text/css" />
